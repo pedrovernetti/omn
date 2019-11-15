@@ -200,11 +200,11 @@ namespace omn
         abk = ISO6391LanguageCode::ab,  // Abkhazian
         afr = ISO6391LanguageCode::af,  // Afrikaans
         aka = ISO6391LanguageCode::ak,  // Akan
-        alb = ISO6391LanguageCode::sq,  // Albanian
+        alb = ISO6391LanguageCode::sq,  // Albanian [B-code]
         amh = ISO6391LanguageCode::am,  // Amharic
         ara = ISO6391LanguageCode::ar,  // Arabic
         arg = ISO6391LanguageCode::an,  // Aragonese
-        arm = ISO6391LanguageCode::hy,  // Armenian
+        arm = ISO6391LanguageCode::hy,  // Armenian [B-code]
         asm_ = ISO6391LanguageCode::as, // Assamese
         ava = ISO6391LanguageCode::av,  // Avaric
         ave = ISO6391LanguageCode::ae,  // Avestan
@@ -212,7 +212,7 @@ namespace omn
         aze = ISO6391LanguageCode::az,  // Azerbaijani / Azeri
         bak = ISO6391LanguageCode::ba,  // Bashkir
         bam = ISO6391LanguageCode::bm,  // Bambara
-        baq = ISO6391LanguageCode::eu,  // Basque
+        baq = ISO6391LanguageCode::eu,  // Basque [B-code]
         bel = ISO6391LanguageCode::be,	// Belarusian
         ben = ISO6391LanguageCode::bn,  // Bengali
         bih = ISO6391LanguageCode::bh,	// Bihari languages
@@ -220,20 +220,20 @@ namespace omn
         bos = ISO6391LanguageCode::bs,  // Bosnian
         bre = ISO6391LanguageCode::br,  // Breton
         bul = ISO6391LanguageCode::bg,  // Bulgarian
-        bur = ISO6391LanguageCode::my,	// Burmese
+        bur = ISO6391LanguageCode::my,	// Burmese [B-code]
         cat = ISO6391LanguageCode::ca,	// Catalan / Valencian
         cha = ISO6391LanguageCode::ch,  // Chamorro
         che = ISO6391LanguageCode::ce,  // Chechen
-        chi = ISO6391LanguageCode::zh,  // Chinese
+        chi = ISO6391LanguageCode::zh,  // Chinese [B-code]
         chu = ISO6391LanguageCode::cu,  // Old Church Slavonic
         chv = ISO6391LanguageCode::cv,  // Chuvash
         cor = ISO6391LanguageCode::kw,  // Cornish
         cos = ISO6391LanguageCode::co,  // Corsican
         cre = ISO6391LanguageCode::cr,  // Cree
-        cze = ISO6391LanguageCode::cs,  // Czech
+        cze = ISO6391LanguageCode::cs,  // Czech [B-code]
         dan = ISO6391LanguageCode::da,  // Danish
         div = ISO6391LanguageCode::dv,  // Divehi
-        dut = ISO6391LanguageCode::nl,  // Dutch
+        dut = ISO6391LanguageCode::nl,  // Dutch [B-code]
         dzo = ISO6391LanguageCode::dz,	// Dzongkha
         eng = ISO6391LanguageCode::en,  // English
         epo = ISO6391LanguageCode::eo,	// Esperanto
@@ -242,16 +242,16 @@ namespace omn
         fao = ISO6391LanguageCode::fo,  // Faroese
         fij = ISO6391LanguageCode::fj,  // Fijian
         fin = ISO6391LanguageCode::fi,  // Finnish
-        fre = ISO6391LanguageCode::fr,  // French
+        fre = ISO6391LanguageCode::fr,  // French [B-code]
         fry = ISO6391LanguageCode::fy,	// Western Frisian
         ful = ISO6391LanguageCode::ff,	// Fulah
-        geo = ISO6391LanguageCode::ka,	// Georgian
-        ger = ISO6391LanguageCode::de,  // German
+        geo = ISO6391LanguageCode::ka,	// Georgian [B-code]
+        ger = ISO6391LanguageCode::de,  // German [B-code]
         gla = ISO6391LanguageCode::gd,  // Scottish Gaelic
         gle = ISO6391LanguageCode::ga,  // Irish
         glg = ISO6391LanguageCode::gl,  // Galician
         glv = ISO6391LanguageCode::gv,  // Manx
-        gre = ISO6391LanguageCode::el,  // Greek
+        gre = ISO6391LanguageCode::el,  // Greek [B-code]
         grn = ISO6391LanguageCode::gn,  // Guarani
         guj = ISO6391LanguageCode::gu,  // Gujarati
         hat = ISO6391LanguageCode::ht,	// Haitian Creole
@@ -263,7 +263,7 @@ namespace omn
         hrv = ISO6391LanguageCode::hr,  // Croatian 
         hun = ISO6391LanguageCode::hu,  // Hungarian
         ibo = ISO6391LanguageCode::ig,	// Igbo
-        ice = ISO6391LanguageCode::is,  // Icelandic
+        ice = ISO6391LanguageCode::is,  // Icelandic [B-code]
         ido = ISO6391LanguageCode::io,	// Ido
         iii = ISO6391LanguageCode::ii,  // Sichuan Yi / Nuosu
         iku = ISO6391LanguageCode::iu,  // Inuktitut
@@ -297,12 +297,12 @@ namespace omn
         ltz = ISO6391LanguageCode::lb,	// Luxembourgish
         lub = ISO6391LanguageCode::lu,  // Luba-Katanga
         lug = ISO6391LanguageCode::lg,	// Ganda
-        mac = ISO6391LanguageCode::mk,  // Macedonian
+        mac = ISO6391LanguageCode::mk,  // Macedonian [B-code]
         mah = ISO6391LanguageCode::mh,	// Marshallese
         mal = ISO6391LanguageCode::ml,	// Malayalam
-        mao = ISO6391LanguageCode::mi,	// Maori
+        mao = ISO6391LanguageCode::mi,	// Maori [B-code]
         mar = ISO6391LanguageCode::mr,	// Marathi
-        may = ISO6391LanguageCode::ms,	// Malay
+        may = ISO6391LanguageCode::ms,	// Malay [B-code]
         mlg = ISO6391LanguageCode::mg,	// Malagasy
         mlt = ISO6391LanguageCode::mt,	// Maltese
         mon = ISO6391LanguageCode::mn,	// Mongolian
@@ -320,20 +320,20 @@ namespace omn
         orm = ISO6391LanguageCode::om,	// Oromo
         oss = ISO6391LanguageCode::os,	// Ossetian
         pan = ISO6391LanguageCode::pa,	// Punjabi
-        per = ISO6391LanguageCode::fa,  // Persian
+        per = ISO6391LanguageCode::fa,  // Persian [B-code]
         pli = ISO6391LanguageCode::pi,	// Pali
         pol = ISO6391LanguageCode::pl,  // Polish
         por = ISO6391LanguageCode::pt,  // Portuguese
         pus = ISO6391LanguageCode::ps,	// Pashto
         que = ISO6391LanguageCode::qu,  // Quechua
         roh = ISO6391LanguageCode::rm,	// Romansh
-        rum = ISO6391LanguageCode::ro,  // Romanian
+        rum = ISO6391LanguageCode::ro,  // Romanian [B-code]
         run = ISO6391LanguageCode::rn,	// Rundi
         rus = ISO6391LanguageCode::ru,  // Russian
         sag = ISO6391LanguageCode::sg,	// Sango
         san = ISO6391LanguageCode::sa,  // Sanskrit
         sin = ISO6391LanguageCode::si,	// Sinhalese
-        slo = ISO6391LanguageCode::sk,	// Slovak
+        slo = ISO6391LanguageCode::sk,	// Slovak [B-code]
         slv = ISO6391LanguageCode::sl,	// Slovenian
         sme = ISO6391LanguageCode::se,	// Northern Sami
         smo = ISO6391LanguageCode::sm,	// Samoan
@@ -355,7 +355,7 @@ namespace omn
         tgk = ISO6391LanguageCode::tg,	// Tajik
         tgl = ISO6391LanguageCode::tl,	// Tagalog
         tha = ISO6391LanguageCode::th, 	// Thai
-        tib = ISO6391LanguageCode::bo,	// Tibetan
+        tib = ISO6391LanguageCode::bo,	// Tibetan [B-code]
         tir = ISO6391LanguageCode::ti,	// Tigrinya
         ton = ISO6391LanguageCode::to,	// Tonga
         tsn = ISO6391LanguageCode::tn,	// Tswana
@@ -370,7 +370,7 @@ namespace omn
         ven = ISO6391LanguageCode::ve,	// Venda
         vie = ISO6391LanguageCode::vi,  // Vietnamese
         vol = ISO6391LanguageCode::vo,	// Volapuk
-        wel = ISO6391LanguageCode::cy,	// Welsh
+        wel = ISO6391LanguageCode::cy,	// Welsh [B-code]
         wln = ISO6391LanguageCode::wa,	// Walloon
         wol = ISO6391LanguageCode::wo,	// Wolof
         xho = ISO6391LanguageCode::xh,	// Xhosa
@@ -654,7 +654,29 @@ namespace omn
         zgh,  // Tamazight
         znd,  // Zande languages
         zun,  // Zuni
-        zza   // Zaza / Dimili / Kirdki / Zazaki
+        zza,  // Zaza / Dimili / Kirdki / Zazaki
+        
+        // Alternative terminological codes (T-codes)
+        bod = tib,	// Tibetan
+        ces = cze,	// Czech
+        cym = wel,	// Welsh
+        deu = ger,	// German
+        ell = gre,	// Greek
+        eus = baq,	// Basque
+        fas = per,	// Persian
+        fra = fre,	// French
+        hye = arm,	// Armenian
+        isl = ice,	// Icelandic
+        kat = geo,	// Georgian
+        mkd = mac,	// Macedonian
+        mri = mao,	// Maori
+        msa = may,	// Malay
+        mya = bur,	// Burmese
+        nld = dut,	// Dutch
+        ron = rum,	// Romanian
+        slk = slo,	// Slovak
+        sqi = alb,	// Albanian
+        zho = chi	// Chinese
     };
 
 	using language = ISO6392LanguageCode;
