@@ -37,11 +37,7 @@ namespace std
 		os << "[";
 		if (size > 0)
 		{
-			if (size > 1)
-			{
-				for (size_t i = 0; i < (size - 1); i++)
-					os << a[i] << ", ";
-			}
+			for (size_t i = 0; i < (size - 1); i++) os << a[i] << ", ";
 			os << a[size - 1];
 		}
 		os << "]";

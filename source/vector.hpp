@@ -13,11 +13,7 @@ namespace std
 		os << "[";
 		if (!v.empty())
 		{
-			if (v.size() > 1)
-			{
-				for (size_t i = 0, size = v.size() - 1; i < size; i++)
-					os << v[i] << ", ";
-			}
+			for (size_t i = 0, size = v.size() - 1; i < size; i++) os << v[i] << ", ";
 			os << v.back();
 		}
 		os << "]";
