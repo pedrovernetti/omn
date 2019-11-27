@@ -457,7 +457,6 @@ namespace omn
         ewo,  // Ewondo
         fan,  // Fang
         fat,  // Fanti
-        fil,  // Filipino
         fon,  // Fon
         frm,  // Middle French
         fro,  // Old French
@@ -676,7 +675,10 @@ namespace omn
         ron = rum,	// Romanian
         slk = slo,	// Slovak
         sqi = alb,	// Albanian
-        zho = chi	// Chinese
+        zho = chi,	// Chinese
+        
+        // Languages treated here as being the same
+        fil = tgl   // Filipino / Tagalog
     };
 
 	using language = ISO6392LanguageCode;
@@ -1138,7 +1140,6 @@ namespace // internal parts
         u8"ewo",
         u8"fan",
         u8"fat",
-        u8"fil",
         u8"fon",
         u8"frm",
         u8"fro",
